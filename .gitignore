@@ -1,2 +1,4 @@
 *.dat
+*~
+a.out
 test_float_array
